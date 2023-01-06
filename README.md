@@ -1,5 +1,7 @@
 # Grundkurs i blender
 
+![](images/title_50.png)
+
 Beginner Blender course in Swedish, by Björn Engström.
 
  * [Download PDF](blenderkurs.pdf)
